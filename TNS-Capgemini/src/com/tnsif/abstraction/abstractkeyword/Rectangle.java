@@ -3,7 +3,7 @@ package com.tnsif.abstraction.abstractkeyword;
 public class Rectangle extends Shape {
 	private float length, breadth;
 
-	public Rectangle() {
+	public Rectangle() { // default constructor
 		this.length = 5.0f;
 		this.breadth = 2.0f;
 	}

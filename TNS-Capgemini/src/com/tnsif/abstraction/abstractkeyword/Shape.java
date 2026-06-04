@@ -1,6 +1,6 @@
 package com.tnsif.abstraction.abstractkeyword;
 
-//pgm to define abstract class
+//program to define abstract class
 
 public abstract class Shape { // abstract class
 	protected float area;

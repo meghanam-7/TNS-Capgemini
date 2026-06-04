@@ -1,6 +1,6 @@
 package com.tnsif.abstraction.abstractkeyword;
 
-//main class where we run the pgm
+//main class where we run the prgm
 public class AbstractDemo {
 	public static void main(String[] args) {
 		Square sq = new Square();

@@ -1,6 +1,6 @@
 package com.tnsif.abstraction.abstractkeyword;
 
-//prgm to demostrate abstraction
+//program to demonstrate abstraction
 
 public class Square extends Shape {
 	private float side;
