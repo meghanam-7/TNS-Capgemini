@@ -8,7 +8,7 @@ public class Rectangle extends Shape {
 		this.breadth = 2.0f;
 	}
 
-	public Rectangle(float length, float breadth) {
+	public Rectangle(float length, float breadth) { // parameterized constructor
 		super();
 		this.length = length;
 		this.breadth = breadth;

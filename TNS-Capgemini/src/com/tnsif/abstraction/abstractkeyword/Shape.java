@@ -14,7 +14,7 @@ public abstract class Shape { // abstract class
 	} // static method
 
 	final void data() {
-	} // final method
+	} // final methodd
 
 	void show() {
 		System.out.println("Area of shape: " + area);
