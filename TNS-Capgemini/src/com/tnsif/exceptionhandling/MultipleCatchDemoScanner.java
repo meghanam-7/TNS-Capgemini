@@ -1,5 +1,6 @@
 package com.tnsif.exceptionhandling;
 
+//Multiple Catch blocks
 import java.util.Scanner;
 
 public class MultipleCatchDemoScanner {

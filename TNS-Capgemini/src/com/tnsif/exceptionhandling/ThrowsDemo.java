@@ -1,6 +1,6 @@
 package com.tnsif.exceptionhandling;
 
-public class ThrowsDemo {
+public class ThrowsDemo { // Throws
 
 	static void divide(int a, int b) throws ArithmeticException {
 		int result = a / b;
