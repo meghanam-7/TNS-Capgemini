@@ -1,6 +1,6 @@
 package com.tnsif.exceptionhandling;
 
-//Multiple Catch blocks
+
 public class MultipleCatchDemo {
 	public static void main(String[] args) {
 		try {
